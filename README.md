@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [bk-kang.me](bk-kang.me)
+- 👨‍💻 All of my projects are available at [bk-kang.me](https://bk-kang.me)
 
 - 📫 Reach out to me: **hb3kang@uwaterloo.ca**
 
-- 📄 Know about my experiences [[[Resume](https://bk-kang.me/assets/Resume_WaterlooWorks_Spring2024.pdf)]]([[Resume](https://bk-kang.me/assets/Resume_WaterlooWorks_Spring2024.pdf)])
+- 📄 Know about my experiences: [Resume](https://bk-kang.me/assets/Resume_WaterlooWorks_Spring2024.pdf)
 
 - ⚡ Fun fact **I grew up in 3 countries!**\
 
