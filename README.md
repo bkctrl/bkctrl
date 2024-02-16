@@ -7,7 +7,7 @@
 
 - 📫 Reach out to me: **hb3kang@uwaterloo.ca**
 
-- 📄 Know about my experiences [[Resume]]([Resume])
+- 📄 Know about my experiences [[Resume]]([[Resume](https://bk-kang.me/assets/Resume_WaterlooWorks_Spring2024.pdf)])
 
 - ⚡ Fun fact **I grew up in 3 countries!**\
 
