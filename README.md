@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20Hi,%20my%20name%20is%20BK&desc=I'm%20an%20aspiring%20software%20engineer.&fontSize=40&fontColor=FFFFFF&animation=fadeIn&reversal=false">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👋%20Hi,%20my%20name%20is%20BK&desc=I'm%20an%20aspiring%20software%20engineer.&fontSize=40&fontColor=FFFFFF&animation=fadeIn&reversal=false">
 
 - 🌱 I’m currently learning **Swift**
 
