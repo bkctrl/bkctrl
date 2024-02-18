@@ -1,6 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👋%20Hi,%20my%20name%20is%20BK&desc=I'm%20an%20aspiring%20software%20engineer.&fontSize=40&fontColor=FFFFFF&animation=fadeIn&reversal=false">
 
-
+Reach out to me:
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+ <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
+![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -28,13 +33,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 	![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
-![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
-<img src="https://img.shields.io/badge/hello-343434?style=for-the-badge&logo=circleci&logoColor=white">
-![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
 - 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [**bk-kang.me**](https://bk-kang.me)
