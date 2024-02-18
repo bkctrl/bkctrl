@@ -1,14 +1,14 @@
-
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👋%20Hi,%20my%20name%20is%20BK&desc=I'm%20an%20aspiring%20software%20engineer.&fontSize=40&fontColor=FFFFFF&animation=fadeIn&reversal=false"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
 </div>
-<p align="center"></br>Hey there! I'm <b>BK</b>, doing undergrad <b>Computer Science</b> at the <b>University of Waterloo</b> in Waterloo, Canada 🇨🇦. </br>
+<p align="center"></br>👋 Hey there! I'm <b>BK</b>, doing undergrad <b>Computer Science</b> at the <b>University of Waterloo</b> in Waterloo, Canada 🇨🇦. </br>
 My passions lie in Machine Learning, Mobile App Development, and Web Development. I'm constantly striving</br> to learn new
 technologies and expand my knowledge in the industry!</p>
 
-## ⚡ Technologies
+
+## ⚡ My Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
