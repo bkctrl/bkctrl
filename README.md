@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👋%20Hi,%20my%20name%20is%20BK&desc=I'm%20an%20aspiring%20software%20engineer.&fontSize=40&fontColor=FFFFFF&animation=fadeIn&reversal=false">
 
-Hey there! I'm **BK**, doing undergrad **Computer Science** at the **University of Waterloo** in Waterloo, Canada 🇨🇦. </br>
+<p align="center">Hey there! I'm **BK**, doing undergrad **Computer Science** at the **University of Waterloo** in Waterloo, Canada 🇨🇦. </br>
 My passions lie in Machine Learning, Mobile App Development, and Web Development. I'm constantly striving</br> to learn new
-technologies and expand my knowledge in the industry!  
+technologies and expand my knowledge in the industry!</p>
+
 
 
 
