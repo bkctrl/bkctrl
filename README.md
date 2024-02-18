@@ -1,24 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👋%20Hi,%20my%20name%20is%20BK&desc=I'm%20an%20aspiring%20software%20engineer.&fontSize=40&fontColor=FFFFFF&animation=fadeIn&reversal=false">
-
-
-<div align="center">
-
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<div align="center">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
- <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
- 
-</div>
-
+ <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW"></div>
 <p align="center">Hey there! I'm <b>BK</b>, doing undergrad <b>Computer Science</b> at the <b>University of Waterloo</b> in Waterloo, Canada 🇨🇦. </br>
 My passions lie in Machine Learning, Mobile App Development, and Web Development. I'm constantly striving</br> to learn new
 technologies and expand my knowledge in the industry!</p>
-
-
-
-
-
-
 
 ## ⚡ Technologies
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -52,13 +39,3 @@ technologies and expand my knowledge in the industry!</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkctrl)](https://github.com/anuraghazra/github-readme-stats)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=첫번째+줄+의+텍스트;두번째+줄+의+텍스트)](https://git.io/typing-svg)
-
-- 🌱 I’m currently learning **Swift**
-
-- 👨‍💻 All of my projects are available at [**bk-kang.me**](https://bk-kang.me)
-
-- 📫 Reach out to me: **hb3kang@uwaterloo.ca**
-
-- 📄 Know about my experiences: [**Resume**](https://bk-kang.me/assets/Resume_S24_2.1.pdf)
-
-- ⚡ Fun fact **I grew up in 3 countries! 🇰🇷🇭🇰🇨🇦**
