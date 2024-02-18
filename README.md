@@ -1,5 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👋%20Hi,%20my%20name%20is%20BK&desc=I'm%20an%20aspiring%20software%20engineer.&fontSize=40&fontColor=FFFFFF&animation=fadeIn&reversal=false">
-<p align="center">Reach out to me!</p>
+
+Hey there! I'm **BK**, doing undergrad **Computer Science** at the **University of Waterloo** in Waterloo, Canada 🇨🇦.
+My passions lie in Machine Learning, Mobile App Development, and Web Development. I'm constantly striving to learn new
+technologies and expand my knowledge in the industry!  
+
+
+
+
+
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
