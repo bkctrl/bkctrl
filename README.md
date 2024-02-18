@@ -31,9 +31,9 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangbkk&theme=blue-green">
+ <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
+![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+<img src="https://img.shields.io/badge/hello-343434?style=for-the-badge&logo=circleci&logoColor=white">
 - 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [**bk-kang.me**](https://bk-kang.me)
