@@ -12,6 +12,7 @@ technologies and expand my knowledge in the industry!</p>
 
 <h2 align="center">⚡ My Tech Stack</h2>
 <div align="center">
+<h3>Languages</h3>
 <a href=""><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
