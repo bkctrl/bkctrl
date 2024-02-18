@@ -34,6 +34,7 @@
  <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
 ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 <img src="https://img.shields.io/badge/hello-343434?style=for-the-badge&logo=circleci&logoColor=white">
+![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 - 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [**bk-kang.me**](https://bk-kang.me)
