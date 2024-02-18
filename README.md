@@ -4,15 +4,19 @@
 My passions lie in Machine Learning, Mobile App Development, and Web Development. I'm constantly striving</br> to learn new
 technologies and expand my knowledge in the industry!</p>
 
-
-
-
-
+<div align="center">
 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
  <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
+ 
+</div>
+
+
+
+
+
 
 ## ⚡ Technologies
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
