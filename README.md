@@ -33,7 +33,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={kangbkk}&theme=blue-green">
 - 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [**bk-kang.me**](https://bk-kang.me)
