@@ -1,5 +1,5 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👋%20Hi,%20my%20name%20is%20BK&desc=I'm%20an%20aspiring%20software%20engineer.&fontSize=40&fontColor=FFFFFF&animation=fadeIn&reversal=false"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/bkctrl/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
 </div>
