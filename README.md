@@ -5,7 +5,7 @@
 <a href="mailto:hb3kang@uwaterloo.ca" target=”_blank”><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="" target=”_blank”><img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW"></a>
 </div>
-<p align="center"></br>👋 Hey there! I'm <b>BK</b>, doing undergrad <b>Computer Science</b> at the <b>University of Waterloo</b> in Waterloo, Canada 🇨🇦. </br>
+<p align="center"></br>👋 Hey there! I'm <b>BK</b>, pursuing undergraduate <b>Computer Science</b> at the <b>University of Waterloo</b> in Waterloo, Canada 🇨🇦. </br>
 My passions lie in Machine Learning, Mobile App Development, and Web Development. I'm constantly striving</br> to learn new
 technologies and expand my knowledge in the industry!</p>
 
