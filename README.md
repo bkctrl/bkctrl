@@ -6,7 +6,7 @@
 <a href="https://bkctrl.ca" target=”_blank”><img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW"></a>
 </div>
 <p align="center"></br>👋 Hey there! I'm <b>BK</b>, pursuing undergraduate <b>Computer Science</b> at the <b>University of Waterloo</b> in Waterloo, Canada 🇨🇦. </br>
-My passions lie in Machine Learning, Mobile App Development, and Web Development. I'm constantly striving</br> to learn new
+My passions lie in Web Development, Mobile App Development, and Machine Learning. I'm constantly striving</br> to learn new
 technologies and expand my knowledge in the industry!</p>
 
 
