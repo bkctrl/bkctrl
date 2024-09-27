@@ -34,6 +34,7 @@ technologies and expand my knowledge in the industry!</p>
 <a href=""><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a></br>
 <a href=""><img src="https://img.shields.io/badge/Notion API-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></a>
 </br>
 
 <h3>☁️ Hosting/Databases</h3>
